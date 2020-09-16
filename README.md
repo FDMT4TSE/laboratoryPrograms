@@ -1,1 +1,1 @@
-# laboratoryPrograms
+The implementations of ACMS, CUBS, ERS, and MOS are available at the *ACMS*, *CUBS*, *ERS*, and *MOS* directories, respectively.
